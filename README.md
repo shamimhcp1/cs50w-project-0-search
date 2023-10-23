@@ -8,7 +8,6 @@ The **Search** project is the first project of the CS50's Web Programming with P
 - The CSS resembled Google’s own aesthetics.
 
 ### Technologies Used
-- **Python:** The server-side logic of the project is built with Python.
 - **HTML/CSS:** The project's HTML/CSS resembled Google’s own aesthetics.
 
 ## Demo
